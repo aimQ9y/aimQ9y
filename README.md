@@ -23,6 +23,5 @@ Tornar-me um desenvolvedor Full Stack capaz de atuar em todas as etapas do ciclo
 ---
 
 ## Características 🧩
-✦ Aprendizado contínuo 
-✦ Organização e atenção aos detalhes  
-✦ Interesse em boas práticas e código limpo 
+✦ Aprendizado contínuo ✦ Organização e atenção aos detalhes ✦ Interesse em boas práticas e código limpo
+

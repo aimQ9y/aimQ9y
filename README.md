@@ -5,10 +5,10 @@ Sou Henrique, desenvolvedor em início de carreira com foco atual em Front-End. 
 ---
 
 ## O que estou estudando atualmente 📚🧠
-➤ HTML  
-➤ CSS  
-➤ JavaScript  
-➤ Fundamentos de desenvolvimento web
+➤  HTML  
+➤  CSS  
+➤  JavaScript  
+➤  Fundamentos de desenvolvimento web
 
 ---
 
